@@ -1,4 +1,3 @@
-# Homelab Automation
- 
-#### Scripts used to automate my Homelab setup.
+# Homelab
+🏡 Scripts and tools for automating my homelab
 
