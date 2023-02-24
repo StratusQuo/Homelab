@@ -1,2 +1,3 @@
-# Homelab_Automation
- Scripts used to automate my Homelab setup.
+#Gmail Scripts
+
+### Scripts used to automate Gmail
