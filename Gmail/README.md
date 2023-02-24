@@ -1,3 +1,3 @@
-#Gmail Scripts
+# Gmail Scripts
 
 ### Scripts used to automate Gmail
